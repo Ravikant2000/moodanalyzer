@@ -13,7 +13,7 @@ questions = [
     {"question": "How do you feel when you think about your relationships?",
      "options": ["Grateful for my friends and family", "Lonely and disconnected",
                  "Overwhelmed by social obligations", "Content with my circle"]},
-    {"question": "What keeps you up at night?",
+    {"question":"What keeps you up at night?",
      "options": ["Exciting thoughts about the future",
                  "Worries about tomorrow",
                  "Regrets from the past",
